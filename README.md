@@ -3,8 +3,6 @@ Bundled NPM Modules
 
 **buffer.js**
 ```html
-<script>
-  let Buffer_=require("buffer");
-  const Buffer=Buffer_.Buffer;
-</script>
+<script src="/path/to/your/buffer.js"></script>
+<script> const Buffer = require("buffer").Buffer; </script>
 ```
