@@ -27,5 +27,7 @@ const BN = require("bn.js");
 **splToken.js**  [Download](https://github.com/SolDapper/browser-bundles/blob/main/splToken.js)
 ```html
 <script src="/path/to/your/splToken.js"></script>
-<script> console.log(splToken.TOKEN_PROGRAM_ID); </script>
+<script>
+  console.log(splToken.TOKEN_PROGRAM_ID);
+</script>
 ```
