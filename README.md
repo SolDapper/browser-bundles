@@ -1,6 +1,8 @@
 # browser-bundles
 Bundled NPM Modules
 
+This repo [Here](https://github.com/McDegens-DAO/McSwap/tree/main/js/lib) has a lot of bundled Solana Web3 modules.
+
 **buffer.js**  [Download](https://github.com/SolDapper/browser-bundles/blob/main/buffer.js)
 ```html
 <script src="/path/to/your/buffer.js"></script>
